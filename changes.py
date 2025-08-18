@@ -10,11 +10,11 @@ st.markdown("""
 
 **Why:** We specify thresholds but not **quorum** or **notice periods**, which can cause legitimacy disputes.
 
-### **Add to Article VII (new 7.5 – Quorum & Notice):**
+### **Section 7.5 - Quorum & Notice**
 
 **Quorum & Notice.** A quorum for general-membership votes is **25% of Voting-Eligible Members** (unless otherwise specified). Notice of any vote shall be provided at least **14 days** in advance, including the full text of the proposal and voting method.
 
-### **Add to Article XVIII, 18.1 (end):**
+### **Section 18.1 - Proposed Amendment Notice Period**
 
 Proposed amendments must be circulated **30 days** prior to the vote with exact text and a summary of intent.
 
@@ -22,7 +22,7 @@ Proposed amendments must be circulated **30 days** prior to the vote with exact 
 
 ## Clarify enforcement link between contributions and rights (Articles III, VII, IX)
 
-### **Add to Article III (new Section 3.5 – Standing & Rights):**
+### **Section 3.5 - Standing & Rights**
 
 **Standing & Rights.** Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions (if any) are held** in reserve pending cure or formal revocation under Article IX.
 
@@ -33,7 +33,9 @@ Proposed amendments must be circulated **30 days** prior to the vote with exact 
 The **Trust shall be the sole member** of the Family LLC; the LLC shall be **manager-managed** by the elected Stewards.
 
 ---
-### Definitions Section (After Preamble but before Article I)
+### Definitions 
+
+> Add after Table of Content, before Article I
 
 - **Enrolled Member**: An individual recorded in the Trust registry per Article IX and in **good standing**.
     
