@@ -18,7 +18,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 
 #### Table of Contents
 
-[[#article-i-founding-members]]
+[Article I - Founding Members](#article-i-founding-members)
 [[## **Article II – Purpose of the Trust**]]
 
 ---
