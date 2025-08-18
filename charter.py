@@ -18,17 +18,8 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 
 #### Table of Contents
 
-```table-of-contents
-title: 
-style: nestedList # TOC style (nestedList|nestedOrderedList|inlineFirstLevel)
-minLevel: 2 # Include headings from the specified level
-maxLevel: 3 # Include headings up to the specified level
-include: 
-exclude: 
-includeLinks: true # Make headings clickable
-hideWhenEmpty: false # Hide TOC if no headings are found
-debugInConsole: false # Print debug info in Obsidian console
-```
+[[##**Article I – Founding Members**]]
+[[## **Article II – Purpose of the Trust**]]
 
 ---
 
