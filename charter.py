@@ -1,4 +1,6 @@
 import streamlit as st
 
-pg = st.navigation([st.Page("charter-text.py"), st.Page("ammendments.py")])
+st.title("Cruikshank Family Trust")
+
+pg = st.navigation([st.Page("charter-text.py", title="Charter"), st.Page("ammendments.py", title="Proposed Ammendments")])
 pg.run()
