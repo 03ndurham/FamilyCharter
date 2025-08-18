@@ -19,7 +19,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 #### Table of Contents
 
 - [Article I - Founding Members](#article-i-founding-members)
-- [Article II - Purpost of the Trust][[#article-ii-purpose-of-the-trust]
+- [Article II - Purpost of the Trust](#article-ii-purpose-of-the-trust)
 - [Article III - Contributions](#article-iii-contributions)
     - [Section 3.1 - Contribution Requirements](#section-3-1-contribution-requirements)
     - [Section 3.2 - Opt-Out Provision](#section-3-2-opt-out-provision)
@@ -28,57 +28,57 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 - [Article IV - Investment Strategy](#article-iv-investment-strategy)
     - [Section 4.1 - Phase One: Seeding Years (Years 0-39)](#section-4-1-phase-one-seeding-years-years-0-39)
     - [Section 4.2 - Phase Two: Diversified Years (Year 40+)](#section-4-2-phase-two-diversified-years-year-40)
-Article V – Investment Governance
-Section 5.1 – Fund Substitution
-Section 5.2 – Reallocation of Percentages
-Section 5.3 – Voting Frequency
-Article VI – Fiscal Year and Distribution
-Section 6.1 – Fiscal Year
-Section 6.2 – Annual Distribution Process
-Article VII – Voting Rights and Governance
-Section 7.1 – Voting Eligibility
-Section 7.2 – Voting Scope
-Section 7.3 – Voting Methods
-Section 7.4 – Officer Removal Process
-Article VIII – Trustee Governance
-Section 8.1 – Trustee Composition
-Section 8.2 – Eligibility
-Section 8.3 – Election and Term
-Section 8.4 – Trustee Election Voting Method
-Article IX – Eligibility & Membership
-Section 9.1 – Automatic Eligibility
-Section 9.2 – Spousal and Stepchild Guidelines
-Section 9.3 – Revocation
-Section 9.4 – Multi-Generational Opt-In Procedure
-Section 9.5 – Widow and Widower Provision
-Article X – Emergency Governance
-Section 10.1 – Authority to Propose Emergency Vote
-Section 10.2 – Grounds for Emergency Vote
-Section 10.3 – General Member Voting Procedure
-Article XI – Family LLC
-Section 11.1 – Purpose and Function
-Section 11.2 – Funding
-Section 11.3 – Stewardship and Oversight
-Section 11.4 – Member Access and Use
-Section 11.5 – Long-Term Asset Planning
-Section 11.6 – Heritage Display Requirement
-Article XII – Charitable Giving
-Article XIII – Lineage Preservation Requirements
-Section 13.1 – Required Information
-Section 13.2 – Digital Archive
-Article XIV – Archives and Transparency
-Article XV – Final Provisions
-Article XVI – Ethics and Conflicts of Interest
-Article XVII – Technological Continuity
-Article XVIII – Amendments and Immutable Provisions
-Section 18.1 – General Amendment Procedure
-Section 18.2 – Immutable Clauses
-Article XIX – Legacy Intentions and Future Initiatives
-Section 19.1 – Education Support and Scholarships
-Section 19.2 – Emergency Relief Fund
-Section 19.3 – Additional Community-Building Programs
-Appendices
-Appendix A: Letter to Future Generations
+- [Article V - Investment Governance](#article-v-investment-governance)
+    - [Section 5.1 - Fund Substitution](#section-5-1-fund-substitution)
+    - [Section 5.2 - Reallocation of Percentages](#section-5-2-reallocation-of-percentages)
+    - [Section 5.3 - Voting Frequency](#section-5-3-voting-frequency)
+- [Article VI - Fiscal Year and Distribution](#article-vi-fiscal-year-and-distribution)
+    - [Section 6.1 - Fiscal Year](#section-6-1-fiscal-year)
+    - [Section 6.2 - Annual Distribution Process](#section-6-2-annual-distribution-process)
+- [Article VII - Voting Rights and Governance](#article-vii-voting-rights-and-governance)
+    - [Section 7.1 - Voting Eligibility](#section-7-1-voting-eligibility)
+    - [Section 7.2 - Voting Scope](#section-7-2-voting-scope)
+    - [Section 7.3 - Voting Methods](#section-7-3-voting-methods)
+    - [Section 7.4 - Officer Removal Process](#section-7-4-officer-removal-process)
+- [Article VIII - Trustee Governance](#article-vii-trustee-governance)
+    - [Section 8.1 - Trustee Composition](#section-8-1-trustee-composition)
+    - [Section 8.2 - Eligibility](#section-8-2-eligibility)
+    - [Section 8.3 - Election and Term](#section-8-3-election-and-term)
+    - [Section 8.4 - Trustee Election Voting Method](#section-8-4-trustee-election-voting-method)
+- [Article IX - Eligibility & Membership](#article-ix-eligibility-and-membership)
+    - [Section 9.1 - Automatic Eligibility](#section-9-1-automatic-eligibility)
+    - [Section 9.2 - Spousal and Stepchild Guidelines](#section-9-2-spousal-and-stepchild-guidelines)
+    - [Section 9.3 - Revocation](#section-9-3-revocation)
+    - [Section 9.4 - Multi-Generational Opt-In Procedure](#section-9-4-multi-generational-opt-in-procedure)
+    - [Section 9.5 - Widow and Widower Provision](#section-9-5-widow-and-widower-provision)
+- [Article X - Emergency Governance](#article-x-emergency-governance)
+    - [Section 10.1 - Authority to Propose Emergency Vote](#section-10-1-authority-to-propose-emergency-vote)
+    - [Section 10.2 - Grounds for Emergency Vote](#section-10-2-grounds-for-emergency-vote)
+    - [Section 10.3 - General Member Voting Procedure](#section-10-3-general-member-voting-procedure)
+- [Article XI - Family LLC](#article-xi-family-llc)
+    - [Section 11.1 - Purpose and Function](#section-11-1-purpose-and-function)
+    - [Section 11.2 - Funding](#section-11-2-funding)
+    - [Section 11.3 - Stewardship and Oversight](#section-11-3-stewardship-and-oversight)
+    - [Section 11.4 - Member Access and Use](#section-11-4-member-access-and-use)
+    - [Section 11.5 - Long-Term Asset Planning](#section-11-5-long-term-asset-planning)
+    - [Section 11.6 - Heritage Display Requirement](#section-11-6-heritage-display-requirement)
+- [Article XII - Charitable Giving](#article-xii-charitable-giving)
+- [Article XIII - Lineage Preservation Requirements](#article-xiii-lineage-preservation-requirements)
+    - [Section 13.1 - Required Information](#section-13-1-required-information)
+    - [Section 13.2 - Digital Archive](#section-13-2-digital-archive)
+- [Article XIV - Archives and Transparency](#article-xiv-archives-and-transparency)
+- [Article XV - Final Provisions](#article-xv-final-provisions)
+- [Article XVI - Ethics and Conflicts of Interest](#article-xvi-ethics-and-conflicts-of-interest)
+- [Article XVII - Technological Continuity](#article-xvii-technological-continuity)
+- [Article XVIII - Amendments and Immutable Provisions](#article-xviii-amendments-and-immutable-provisions)
+    - [Section 18.1 - General Amendment Procedure](#section-18-1-general-amendment-procedure)
+    - [Section 18.2 - Immutable Clauses](#section-18-2-immutable-clauses)
+- [Article XIX - Legacy Intentions and Future Initiatives](#article-xix-legacy-intentions-and-future-initiatives)
+    - [Section 19.1 - Education Support and Scholarships](#section-19-1-education-support-and-scholarships)
+    - [Section 19.2 - Emergency Relief Fund](#section-19-2-emergency-relief-fund)
+    - [Section 19.3 - Additional Community-Building Programs](#section-19-3-additional-community-building-programs)
+- [Appendices](#appendices)
+    - [Appendix A: Letter to Future Generations](#appendix-a-letter-to-future-generations)
 
 ---
 
