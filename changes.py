@@ -2,7 +2,7 @@ import streamlit as st
 
 st.markdown("""
 
-> The following proposed ammendents are intended to clarify some procedures or cover other issues discovered while reading the charter.
+> The following proposed changes are intended to clarify some procedures or cover other issues discovered while reading the charter.
 
 ---
 
