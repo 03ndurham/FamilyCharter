@@ -18,8 +18,67 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 
 #### Table of Contents
 
-[Article I - Founding Members](#article-i-founding-members)
-[[## **Article II – Purpose of the Trust**]]
+- [Article I - Founding Members](#article-i-founding-members)
+- [Article II - Purpost of the Trust][[#article-ii-purpose-of-the-trust]
+- [Article III - Contributions](#article-iii-contributions)
+    - [Section 3.1 - Contribution Requirements](#section-3-1-contribution-requirements)
+    - [Section 3.2 - Opt-Out Provision](#section-3-2-opt-out-provision)
+    - [Section 3.3 - Founding Members](#section-3-3-founding-members)
+    - [Section 3.4 - Financial Hardship Exemptions](#section-3-4-financial-harship-exemptions)
+- [Article IV - Investment Strategy](#article-iv-investment-strategy)
+    - [Section 4.1 - Phase One: Seeding Years (Years 0-39)](#section-4-1-phase-one-seeding-years-years-0-39)
+    - [Section 4.2 - Phase Two: Diversified Years (Year 40+)](#section-4-2-phase-two-diversified-years-year-40)
+Article V – Investment Governance
+Section 5.1 – Fund Substitution
+Section 5.2 – Reallocation of Percentages
+Section 5.3 – Voting Frequency
+Article VI – Fiscal Year and Distribution
+Section 6.1 – Fiscal Year
+Section 6.2 – Annual Distribution Process
+Article VII – Voting Rights and Governance
+Section 7.1 – Voting Eligibility
+Section 7.2 – Voting Scope
+Section 7.3 – Voting Methods
+Section 7.4 – Officer Removal Process
+Article VIII – Trustee Governance
+Section 8.1 – Trustee Composition
+Section 8.2 – Eligibility
+Section 8.3 – Election and Term
+Section 8.4 – Trustee Election Voting Method
+Article IX – Eligibility & Membership
+Section 9.1 – Automatic Eligibility
+Section 9.2 – Spousal and Stepchild Guidelines
+Section 9.3 – Revocation
+Section 9.4 – Multi-Generational Opt-In Procedure
+Section 9.5 – Widow and Widower Provision
+Article X – Emergency Governance
+Section 10.1 – Authority to Propose Emergency Vote
+Section 10.2 – Grounds for Emergency Vote
+Section 10.3 – General Member Voting Procedure
+Article XI – Family LLC
+Section 11.1 – Purpose and Function
+Section 11.2 – Funding
+Section 11.3 – Stewardship and Oversight
+Section 11.4 – Member Access and Use
+Section 11.5 – Long-Term Asset Planning
+Section 11.6 – Heritage Display Requirement
+Article XII – Charitable Giving
+Article XIII – Lineage Preservation Requirements
+Section 13.1 – Required Information
+Section 13.2 – Digital Archive
+Article XIV – Archives and Transparency
+Article XV – Final Provisions
+Article XVI – Ethics and Conflicts of Interest
+Article XVII – Technological Continuity
+Article XVIII – Amendments and Immutable Provisions
+Section 18.1 – General Amendment Procedure
+Section 18.2 – Immutable Clauses
+Article XIX – Legacy Intentions and Future Initiatives
+Section 19.1 – Education Support and Scholarships
+Section 19.2 – Emergency Relief Fund
+Section 19.3 – Additional Community-Building Programs
+Appendices
+Appendix A: Letter to Future Generations
 
 ---
 
