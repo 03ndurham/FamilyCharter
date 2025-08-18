@@ -1,7 +1,5 @@
 import streamlit as st
 
-st.title("Cruikshank Family Trust")
-
 st.markdown("""
 
 # **Edward and Sandra Cruikshank Family Legacy Trust**
