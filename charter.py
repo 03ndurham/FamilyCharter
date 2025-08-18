@@ -225,33 +225,32 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 ### Section 6.2 – Annual Distribution Process
 
-1. Calculate **Total Trust Earnings** (including dividends) for the fiscal year.
+1. Calculate total **Trust Earnings** (including dividends).
 
-2. Reserve a tax provision sufficient to satisfy all projected taxes related to Trust earnings.
+2. Allocate **35%** of earnings to the **Distribution Pool.**
 
-3. From the remaining amount (**Net Earnings After Tax**), allocate 35% of **Total Trust Earnings** (or remaining earnings if less than 35%) to the **Distribution Pool**.
-
-4. Divide Distribution Pool as follows:
+3. Divide Distribution Pool as follows:
    
-	-  25% – Family LLC
+	- 25% – Family LLC
     
     - 5% – Annual Charitable Giving
     
     - 70% – Descendants Distribution Pool
 
-5. Divide Descendants Pool **equally** among eligible descendants (Base Distribution).
+4. Divide Descendants Pool **equally** among eligible descendants (Base Distribution).
     
-6. Apply **Partial Distribution Rule**:
+5. Apply **Partial Distribution Rule**:
 
-    - Each descendant receives **5% per year of age as of September 30** (e.g., a 4-year-old receives 20% of their base share).
+    - Each descendant receives **5% per year of age** (e.g., a 4-year-old receives 20% of their base share).
     
     - Remainder is reinvested.
 
-7. Issue final distributions by **December 23**.
+6. Issue final distributions by **December 23**.
+
+7. Calculate and reserve **taxes** dur of Trust earnings.
 
 8. Reinvest remaining cash.
 
-**Eligibility Clarification:** For purposes of Article VI, _Eligible Descendant_ includes minors and individuals pending enrollment paperwork under Article IX.
 
 
 ---
