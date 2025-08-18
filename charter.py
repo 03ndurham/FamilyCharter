@@ -9,13 +9,12 @@ st.markdown("""
 **Version**: 2.2  **Inception Date**: January 1, 2026  **Jurisdiction**: State of New York
 
 ---
+
 #### **Preamble**
 
 This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("the Trust"), created in honor of Edward and Sandra Cruikshank, to provide enduring support, guidance, and opportunity for future generations of the Cruikshank family and their descendants. The Trust is created as a long-term, intergenerational fund governed by principles of stewardship, equity, humility, and shared responsibility. This Trust was envisioned and established by Nathan Durham in honor of his grandparents, Edward and Sandra Cruikshank, with the intent of fostering legacy, unity, and generational opportunity for all who follow.
 
 ---
-
-<div style="page-break-after: always;"></div>
 
 #### Table of Contents
 
@@ -32,7 +31,6 @@ debugInConsole: false # Print debug info in Obsidian console
 ```
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article I – Founding Members**
 
@@ -41,7 +39,6 @@ The following individuals are designated as Founding Members of the Trust, order
 Lucy Livermore, Carole Preston, Skip Cruikshank, Harry Cruikshank, Judy McMullen, William Cruikshank, Benjamin Livermore, Nicholas Livermore, Heather Hernandez, Nathan Durham, Justina Cruikshank, Josh Wood, John Wood, Tricia Ruff, Michael Cruikshank, and Morgan Cruikshank.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article II – Purpose of the Trust**
 
@@ -61,7 +58,6 @@ The Trust is established to:
 The Trust shall prioritize long-term generational opportunity over personal enrichment, seeking collective benefit rather than individual financial gain.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article III – Contributions**
 
@@ -114,7 +110,6 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 > _This provision affirms that while shared responsibility is expected, compassion and flexibility shall guide its application._
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article IV – Investment Strategy**
 
@@ -151,7 +146,6 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 **Risk Disclosure:** Target returns are **aspirational** and **not guaranteed**. All investments involve risk of loss, including loss of principal.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article V – Investment Governance**
 
@@ -171,7 +165,6 @@ The Trust shall prioritize long-term generational opportunity over personal enri
     
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article VI – Fiscal Year and Distribution**
 
@@ -212,7 +205,6 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article VII – Voting Rights and Governance**
 
@@ -262,7 +254,6 @@ Once a petition threshold is met:
 If removed, the individual is ineligible to hold elected office within the Trust or LLC for **one full election cycle** (10 years). Reinstatement eligibility may be reconsidered by a majority vote after that time.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article VIII – Trustee Governance**
 
@@ -347,7 +338,6 @@ For the **first official Trustee election only**, any enrolled member aged **30 
 
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article IX – Eligibility & Membership**
 
@@ -420,7 +410,6 @@ In the event of the death of an enrolled member, their surviving spouse (widow o
 
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article X – Emergency Governance**
 
@@ -457,7 +446,6 @@ Once initiated, the emergency proposal is presented to all general members eligi
 > **Immutable Clause**: The symbolic monthly contribution of **$10 USD per member** between the ages of 21 and 65 shall not be altered under any condition, including emergency voting.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XI – Family LLC**
 
@@ -576,7 +564,6 @@ The Family Tree Wall must include:
 A **digital version** of the family tree shall also be maintained and updated annually as part of the LLC’s archival duties. The digital version should also include any health concerns that may be relevant for future generations. Any health-related information shall be **voluntarily submitted (opt-in), minimal, and stored in aggregate or non-identifying form** when possible. Personally identifiable medical details require **explicit written consent** and must be access-restricted per Article XIV. No member is required to disclose medical information.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XII – Charitable Giving**
 
@@ -589,7 +576,6 @@ A **digital version** of the family tree shall also be maintained and updated an
 - All donations and impacts are archived.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XIII – Lineage Preservation Requirements**
 
@@ -617,7 +603,6 @@ To facilitate accuracy:
 - Any family member may also submit birth, adoption, or lineage updates to the Stewards for archival inclusion.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XIV – Archives and Transparency**
 
@@ -632,7 +617,6 @@ To facilitate accuracy:
 - When privacy-sensitive trustee decisions are logged (e.g, hardship exemptions), personal identifying, or medical information shall be excluded, and records shall reflect decisions in summary form, preserving dignity while ensuring traceability.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XV – Final Provisions**
 
@@ -641,7 +625,6 @@ This Charter shall be binding on all current and future members of the Trust. Am
 The Edward and Sandra Cruikshank Family Legacy Trust is founded with the intent to endure, grow, and uplift generations yet to come. In the spirit of stewardship, humility, and belonging, this Charter affirms our shared responsibility to one another and to those not yet born.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XVI – Ethics and Conflicts of Interest**
 
@@ -656,7 +639,6 @@ Trustees, Stewards, and any elected representatives of the Trust or Family LLC s
 Upon disclosure, the conflicted individual shall **recuse themselves** from the vote or abstain from participating in related deliberation. All such recusals shall be logged and included in the Trust archive.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XVII – Technological Continuity**
 
@@ -672,7 +654,6 @@ Trustees and Stewards are empowered to adopt new tools, systems, or platforms fo
   
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XVIII – Amendments and Immutable Provisions**
 
@@ -700,7 +681,6 @@ The following provisions shall be considered **immutable** unless the Charter is
 - **Equal Standing Clause** (Article III) – All members, regardless of the amount they contribute beyond the required sum, shall remain equal in all rights, privileges, distributions, governance participation, and access to Trust resources. No excess contribution shall create or imply any preferential treatment, advantage, or authority for the contributor or for any of their descendants, now or in the future.
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Article XIX – Legacy Intentions and Future Initiatives**
 
@@ -747,7 +727,6 @@ These ideas are offered not as directives, but as an invitation to future member
 
 
 ---
-<div style="page-break-after: always;"></div>
 
 ## **Appendices**
 
@@ -786,7 +765,6 @@ With all my heart,
 
 ---
 
-<div style="page-break-after: always;"></div>
 ### Appendix B: Implementation Guidelines and Ramp-Up Procedures
 
 #### Section 1: Initial Setup Period
