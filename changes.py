@@ -2,7 +2,7 @@ import streamlit as st
 
 st.markdown("""
 
-> The following proposed changes are intended to clarify some procedures or cover other issues discovered while reading the charter.
+# The following proposed changes are intended to clarify some procedures or cover other issues discovered while reading the charter.
 
 ---
 
@@ -33,9 +33,10 @@ Proposed amendments must be circulated **30 days** prior to the vote with exact 
 The **Trust shall be the sole member** of the Family LLC; the LLC shall be **manager-managed** by the elected Stewards.
 
 ---
-### Definitions 
 
 > Add after Table of Content, before Article I
+
+### Definitions 
 
 - **Enrolled Member**: An individual recorded in the Trust registry per Article IX and in **good standing**.
     
