@@ -2,25 +2,29 @@ import streamlit as st
 
 st.markdown("""
 
-### Quorum & notice for member votes (Articles VII & XVIII)
+> The following proposed ammendents are intended to clarify some procedures or cover other issues discovered while reading the charter.
+
+---
+
+## Quorum & notice for member votes (Articles VII & XVIII)
 
 **Why:** We specify thresholds but not **quorum** or **notice periods**, which can cause legitimacy disputes.
 
-**Add to Article VII (new 7.5 – Quorum & Notice):**
+### **Add to Article VII (new 7.5 – Quorum & Notice):**
 
-> **Quorum & Notice.** A quorum for general-membership votes is **25% of Voting-Eligible Members** (unless otherwise specified). Notice of any vote shall be provided at least **14 days** in advance, including the full text of the proposal and voting method.
+**Quorum & Notice.** A quorum for general-membership votes is **25% of Voting-Eligible Members** (unless otherwise specified). Notice of any vote shall be provided at least **14 days** in advance, including the full text of the proposal and voting method.
 
-**Add to Article XVIII, 18.1 (end):**
+### **Add to Article XVIII, 18.1 (end):**
 
-> Proposed amendments must be circulated **30 days** prior to the vote with exact text and a summary of intent.
+Proposed amendments must be circulated **30 days** prior to the vote with exact text and a summary of intent.
 
 ---
-### Clarify enforcement link between contributions and rights (Articles III, VII, IX)
 
-**Add to Article III (new Section 3.5 – Standing & Rights):**
+## Clarify enforcement link between contributions and rights (Articles III, VII, IX)
 
-> **Standing & Rights.** Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions (if any) are held** in reserve pending cure or formal revocation under Article IX.
+### **Add to Article III (new Section 3.5 – Standing & Rights):**
 
+**Standing & Rights.** Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions (if any) are held** in reserve pending cure or formal revocation under Article IX.
 
 ---
 
