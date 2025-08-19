@@ -15,6 +15,8 @@ st.markdown("""
 - Met to follow up on changes.
 - Discussed potential financial institutions to begin saving for legal costs.
 - Examined Trustees and decided we may want to elect alternative trustee members in case of vacancy, rather than allow the trustees to vote to fill a vacancy.
+- Decided we needed to inform the remaining 'founding members' before proceeding too far. 
+- Assigned Nathan Durham the task of writing the introduction letter.
 
 ---
 
