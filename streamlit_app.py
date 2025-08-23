@@ -1,5 +1,12 @@
 import streamlit as st
 
+st.markdown(
+    """
+    <meta name="robots" content="noindex, nofollow">
+    """,
+    unsafe_allow_html=True
+)
+
 st.set_page_config(layout="wide")
 
 pg = st.navigation([st.Page("charter.py", title="Charter"), 
