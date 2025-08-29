@@ -247,7 +247,7 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 6. Issue final distributions by **December 23**.
 
-7. Calculate and reserve **taxes** dur of Trust earnings.
+7. Calculate and reserve **taxes** due from Trust earnings.
 
 8. Reinvest remaining cash.
 

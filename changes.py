@@ -123,40 +123,5 @@ Any Voting-Eligible Member may petition for an independent audit or initiate leg
 4. In exceptional circumstances, the Trustees may hold contributions in the bank account temporarily before transfer to maintain liquidity for pending distributions, tax payments, or administrative expenses.
 
 ---
-
-### Re-word Distribution Process to clarify that money for taxes should be reserved first
-
-### Section 6.2 – Annual Distribution Process[](https://cruikshankfamilytrust.streamlit.app/~/+/#section-6-2-annual-distribution-process)
-
-1. Calculate **Total Trust Earnings** (including dividends) for the fiscal year.
-    
-2. Reserve a tax provision sufficient to satisfy all projected taxes related to Trust earnings.
-    
-3. From the remaining amount (**Net Earnings After Tax**), allocate 35% of **Total Trust Earnings** (or remaining earnings if less than 35%) to the **Distribution Pool**.
-    
-4. Divide Distribution Pool as follows:
-    
-    - 25% – Family LLC
-        
-    - 5% – Annual Charitable Giving
-        
-    - 70% – Descendants Distribution Pool
-        
-5. Divide Descendants Pool **equally** among eligible descendants (Base Distribution).
-    
-6. Apply **Partial Distribution Rule**:
-    
-    - Each descendant receives **5% per year of age as of September 30** (e.g., a 4-year-old receives 20% of their base share).
-        
-    - Remainder is reinvested.
-        
-7. Issue final distributions by **December 23**.
-    
-8. Reinvest remaining cash.
-    
-
-**Eligibility Clarification:** For purposes of Article VI, _Eligible Descendant_ includes minors and individuals pending enrollment paperwork under Article IX.
-
----
             
             """)
