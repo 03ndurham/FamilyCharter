@@ -181,6 +181,10 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 > _This provision affirms that while shared responsibility is expected, compassion and flexibility shall guide its application._
 
+### Section 3.5 - Standing & Rights
+
+Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions** are forfeit (reinvested) until the member is either back in good standing, a harship exception/defferment is in place, or the member is removed in accordance with Article IX.
+
 ---
 
 ## **Article IV – Investment Strategy**
