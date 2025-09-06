@@ -323,6 +323,11 @@ Once a petition threshold is met:
 
 If removed, the individual is ineligible to hold elected office within the Trust or LLC for **one full election cycle** (10 years). Reinstatement eligibility may be reconsidered by a majority vote after that time.
 
+
+### Section 7.5 - Quorum & Notice
+
+A quorum for general-membership votes is **25% of Voting-Eligible Members** (unless otherwise specified). Notice of any vote shall be provided at least **14 days** in advance, including the full text of the proposal and voting method.
+
 ---
 
 ## **Article VIII – Trustee Governance**
