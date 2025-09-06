@@ -6,7 +6,7 @@ st.markdown("""
 
 #### Charter of Establishment and Governance
 
-**Version**: 2.2  **Inception Date**: January 1, 2026  **Jurisdiction**: State of New York
+**Version**: 2.3  **Inception Date**: January 1, 2026  **Jurisdiction**: State of New York
 
 ---
 
@@ -18,6 +18,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 
 #### Table of Contents
 
+- [Definitions](#definitions)
 - [Article I - Founding Members](#article-i-founding-members)
 - [Article II - Purpost of the Trust](#article-ii-purpose-of-the-trust)
 - [Article III - Contributions](#article-iii-contributions)
@@ -79,6 +80,26 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 19.3 - Additional Community-Building Programs](#section-19-3-additional-community-building-programs)
 - [Appendices](#appendices)
     - [Appendix A: Letter to Future Generations](#appendix-a-letter-to-future-generations)
+
+---
+
+## Definitions 
+
+- **Enrolled Member**: An individual recorded in the Trust registry per Article IX and in **good standing**.
+    
+- **Good Standing**: Up to date on contributions or formally covered by a hardship exemption/deferral under Article III.
+    
+- **Voting-Eligible Member**: An Enrolled Member aged **18+** in good standing.
+    
+- **Eligible Descendant**: A biological or legally adopted descendant of an Enrolled Member who is recorded per Article IX (enrollment may be pending for minors), used for distribution calculations in Article VI.
+    
+- **Simple Majority**: More than 50% of the ballots cast in favor. A result of exactly 50% in favor does not meet this threshold and the motion fails.  
+    
+- **Supermajority (75%)**: At least 75% of the ballots cast in favor.
+    
+- **Fiscal Year End Date**: September 30 (Article VI).
+    
+- **Age for Distribution Purposes**: Age as of **Fiscal Year End Date**.
 
 ---
 
