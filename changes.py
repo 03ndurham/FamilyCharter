@@ -123,5 +123,10 @@ Any Voting-Eligible Member may petition for an independent audit or initiate leg
 4. In exceptional circumstances, the Trustees may hold contributions in the bank account temporarily before transfer to maintain liquidity for pending distributions, tax payments, or administrative expenses.
 
 ---
+### **3.2 - Opt-Out Provision**
+
+- Any eligible member may **opt out** of participation.
+
+- Opting Out forfeits any and all benefits, including, but not limited to receiving distributions, voting rights, access to LLC owned properties.
             
             """)
