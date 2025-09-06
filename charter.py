@@ -26,6 +26,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 3.2 - Opt-Out Provision](#section-3-2-opt-out-provision)
     - [Section 3.3 - Founding Members](#section-3-3-founding-members)
     - [Section 3.4 - Financial Hardship Exemptions](#section-3-4-financial-harship-exemptions)
+    - [Section 3.5 - Standings & Rights](#section-3-5-standing-and-rights)
 - [Article IV - Investment Strategy](#article-iv-investment-strategy)
     - [Section 4.1 - Phase One: Seeding Years (Years 0-39)](#section-4-1-phase-one-seeding-years-years-0-39)
     - [Section 4.2 - Phase Two: Diversified Years (Year 40+)](#section-4-2-phase-two-diversified-years-year-40)
@@ -64,6 +65,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 11.4 - Member Access and Use](#section-11-4-member-access-and-use)
     - [Section 11.5 - Long-Term Asset Planning](#section-11-5-long-term-asset-planning)
     - [Section 11.6 - Heritage Display Requirement](#section-11-6-heritage-display-requirement)
+    - [Section 11.7 - LLC ownership](#section-11-7-llc-ownership)
 - [Article XII - Charitable Giving](#article-xii-charitable-giving)
 - [Article XIII - Lineage Preservation Requirements](#article-xiii-lineage-preservation-requirements)
     - [Section 13.1 - Required Information](#section-13-1-required-information)
@@ -183,7 +185,7 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 ### Section 3.5 - Standing & Rights
 
-Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions** are forfeit (reinvested) until the member is either back in good standing, a harship exception/defferment is in place, or the member is removed in accordance with Article IX.
+Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions** are forfeit (reinvested) until the member is either back in good standing, a harship exception/deferral is in place, or the member is removed in accordance with Article IX.
 
 ---
 
@@ -642,6 +644,10 @@ The Family Tree Wall must include:
 
 
 A **digital version** of the family tree shall also be maintained and updated annually as part of the LLC’s archival duties. The digital version should also include any health concerns that may be relevant for future generations. Any health-related information shall be **voluntarily submitted (opt-in), minimal, and stored in aggregate or non-identifying form** when possible. Personally identifiable medical details require **explicit written consent** and must be access-restricted per Article XIV. No member is required to disclose medical information.
+
+### Section 11.7 - LLC ownership
+
+The **Trust shall be the sole member** of the Family LLC; the LLC shall be **manager-managed** by the elected Stewards.
 
 ---
 

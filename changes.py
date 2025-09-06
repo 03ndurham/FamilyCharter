@@ -2,57 +2,10 @@ import streamlit as st
 
 st.markdown("""
 
-# The following proposed changes are intended to clarify some procedures or cover other issues discovered while reading the charter.
-
----
-
-## Quorum & notice for member votes (Articles VII & XVIII)
-
-**Why:** We specify thresholds but not **quorum** or **notice periods**, which can cause legitimacy disputes.
-
-### **Section 7.5 - Quorum & Notice**
-
-**Quorum & Notice.** A quorum for general-membership votes is **25% of Voting-Eligible Members** (unless otherwise specified). Notice of any vote shall be provided at least **14 days** in advance, including the full text of the proposal and voting method.
-
-### **Section 18.1 - Proposed Amendment Notice Period**
-
-Proposed amendments must be circulated **30 days** prior to the vote with exact text and a summary of intent.
-
----
-
-## Clarify enforcement link between contributions and rights (Articles III, VII, IX)
-
-### **Section 3.5 - Standing & Rights**
-
-**Standing & Rights.** Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions (if any) are held** in reserve pending cure or formal revocation under Article IX.
-
----
 
 ### **Section 11.6 - LLC ownership** 
 
 The **Trust shall be the sole member** of the Family LLC; the LLC shall be **manager-managed** by the elected Stewards.
-
----
-
-> Add after Table of Content, before Article I
-
-### Definitions 
-
-- **Enrolled Member**: An individual recorded in the Trust registry per Article IX and in **good standing**.
-    
-- **Good Standing**: Up to date on contributions or formally covered by a hardship exemption/deferral under Article III.
-    
-- **Voting-Eligible Member**: An Enrolled Member aged **18+** in good standing.
-    
-- **Eligible Descendant**: A biological or legally adopted descendant of an Enrolled Member who is recorded per Article IX (enrollment may be pending for minors), used for distribution calculations in Article VI.
-    
-- **Simple Majority**: More than 50% of the ballots cast in favor. A result of exactly 50% in favor does not meet this threshold and the motion fails.  
-    
-- **Supermajority (75%)**: At least 75% of the ballots cast in favor.
-    
-- **Fiscal Year End Date**: September 30 (Article VI).
-    
-- **Age for Distribution Purposes**: Age as of **Fiscal Year End Date**.
 
 ---
 
