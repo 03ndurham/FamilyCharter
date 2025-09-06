@@ -41,6 +41,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 7.2 - Voting Scope](#section-7-2-voting-scope)
     - [Section 7.3 - Voting Methods](#section-7-3-voting-methods)
     - [Section 7.4 - Officer Removal Process](#section-7-4-officer-removal-process)
+    - [Section 7.5 - Quorum & Notice](#section-7-5-quorum-and-notice)
 - [Article VIII - Trustee Governance](#article-vii-trustee-governance)
     - [Section 8.1 - Trustee Composition](#section-8-1-trustee-composition)
     - [Section 8.2 - Eligibility](#section-8-2-eligibility)
@@ -734,7 +735,7 @@ Trustees and Stewards are empowered to adopt new tools, systems, or platforms fo
 
 ### Section 18.1 – General Amendment Procedure
 
-Any enrolled member may propose an amendment to this Charter. All proposed amendments must be submitted in writing and discussed in a public family forum (digital or in-person).
+Any enrolled member may propose an amendment to this Charter. All proposed amendments must be submitted in writing and discussed in a public family forum (digital or in-person). Proposed Amendemnts must circulated **30 days** prior to the vote with the exact text and a summary of intent.
  
  An amendment is ratified if it receives:
  
