@@ -37,6 +37,8 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 - [Article VI - Fiscal Year and Distribution](#article-vi-fiscal-year-and-distribution)
     - [Section 6.1 - Fiscal Year](#section-6-1-fiscal-year)
     - [Section 6.2 - Annual Distribution Process](#section-6-2-annual-distribution-process)
+    - [Section 6.3 - Investment Income and Principal Protection](#section-6-3-investment-income-and-principal-protection)
+    - [Section 6.4 - Contributions and Investment Funding](#section-6-4-contributions-and-investment-funding)
 - [Article VII - Voting Rights and Governance](#article-vii-voting-rights-and-governance)
     - [Section 7.1 - Voting Eligibility](#section-7-1-voting-eligibility)
     - [Section 7.2 - Voting Scope](#section-7-2-voting-scope)
@@ -297,7 +299,7 @@ Failure to contribute without an approved hardship exemption/deferral places a m
 5. Withdrawals from the investment account for purposes other than reinvestment or routine expenses shall be subject to prior member review and approval in accordance with Article VII.
 
 
-### 6.4 Contributions and Investment Funding
+### Section 6.4 - Contributions and Investment Funding
 
 1. All new member contributions shall be initially deposited into the Trust’s designated bank account.
     
