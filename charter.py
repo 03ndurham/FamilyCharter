@@ -48,6 +48,10 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 8.2 - Eligibility](#section-8-2-eligibility)
     - [Section 8.3 - Election and Term](#section-8-3-election-and-term)
     - [Section 8.4 - Trustee Election Voting Method](#section-8-4-trustee-election-voting-method)
+    - [Section 8.5 - Fiduciary Accountability](#section-8-5-fiduciary-accountability)
+    - [Section 8.6 - Mandatory Annual Accounting](#section-8-6-mandatory-annual-accounting)
+    - [Section 8.7 - Oversight and Enforcement](#section-8-7-oversight-and-enforcement)
+    - [Section 8.8 - Transaction Transparency and Executuion Protocol](#section-8-8-transaction-transparency-and-execution-protocol)
 - [Article IX - Eligibility & Membership](#article-ix-eligibility-and-membership)
     - [Section 9.1 - Automatic Eligibility](#section-9-1-automatic-eligibility)
     - [Section 9.2 - Spousal and Stepchild Guidelines](#section-9-2-spousal-and-stepchild-guidelines)
@@ -382,7 +386,7 @@ For the **first official Trustee election only**, any enrolled member aged **30 
 ### Section 8.4 – Trustee Election Voting Method
 
 1. **Voting System**  
-    Trustee elections shall be conducted using a **ranked-choice voting system** (also known as instant-runoff voting), designed to reflect voter consensus and minimize polarization.
+    Trustee elections shall be conducted using a **ranked-choice voting system** designed to reflect voter consensus and minimize polarization.
     
 2. **Balloting Process**
     
