@@ -185,7 +185,7 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 ### Section 3.5 - Standing & Rights
 
-Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions** are forfeit (reinvested) until the member is either back in good standing, a harship exception/deferral is in place, or the member is removed in accordance with Article IX.
+Failure to contribute without an approved hardship exemption/deferral places a member **not in good standing**. While not in good standing, a member’s **voting rights are suspended** and **distributions** are forfeit (reinvested) until the member is either back in good standing, a harship exemption/deferral is in place, or the member is removed in accordance with Article IX.
 
 ---
 
@@ -376,10 +376,8 @@ For the **first official Trustee election only**, any enrolled member aged **30 
     Elections should be scheduled, when possible, to **stagger Trustee turnover**, ensuring that no more than 50% of seats are up for election in any given cycle. This preserves institutional knowledge and continuity.
     
 4. **Mid-Term Resignations or Removal**  
-    If a Trustee resigns or is removed mid-term, the remaining Trustees may appoint a **temporary replacement** by majority vote to serve until the next regularly scheduled election or for a minimum of one (1) year, whichever is longer.
+    If a Trustee resigns or is removed mid-term, the remaining Trustees may appoint a **temporary replacement** by majority vote to serve until the next regularly scheduled election.
     
-
----
 
 ### Section 8.4 – Trustee Election Voting Method
 
@@ -418,6 +416,45 @@ For the **first official Trustee election only**, any enrolled member aged **30 
 5. **Transparency and Recordkeeping**  
     All votes shall be recorded and archived in accordance with **Article XIV – Archives and Transparency**. Election results, vote counts, and ranked elimination rounds shall be made available to all enrolled members.
 
+
+### Section 8.5 - Fiduciary Accountability
+
+Trustees shall be held personally liable for any breach of fiduciary duty, including but not limited to misappropriation of trust assets, self-dealing, or failure to adhere to the terms of this Charter. In such cases, the Trust reserves the right to pursue legal action for restitution, damages, and removal.  
+
+
+### Section 8.6 - Mandatory Annual Accounting
+
+Trustees shall prepare and publish an annual financial report, detailing all Trust income, expenses, distributions, and administrative costs.The report must be issued no later than January 31 in accordance with the transparency provisions of Article XIV. Failure to comply shall constitute grounds for removal under Section 7.4.
+
+**Account Statement Transparency**
+
+Trustees shall ensure that monthly statements from all Trust accounts—including all bank accounts and investment accounts—are published promptly to all Enrolled Members. This ongoing transparency allows members to monitor Trust activity closely and serves as an additional check against misconduct or unauthorized transactions.
+
+
+### Section 8.7 - Oversight and Enforcement
+
+Any Voting-Eligible Member may petition for an independent audit or initiate legal proceedings in the event of suspected Trustee misconduct. If Trustees are found to have violated their duties, they shall be subject to civil liability, removal from office, and disqualification from future service as a Trustee.
+
+
+### Section 8.8 - Transaction Transparency and Execution Protocol
+
+> This Section is subject to the limitations of the investment platform used by the Trust.
+
+**Advance Notification:** Withdrawal, Sales, and Transfers Out of the Investment Account initiated by the Trustees on behalf of the Trust shall trigger an automated Trust-wide alert, sent via email to all registered members. The alert shall include:
+
+ 1. A detailed description of the proposed transaction;  
+
+ 2. The names of the initiating Trustee(s);  
+
+ 3. The scheduled execution date and time (if known);  
+
+ 4. Instructions for submitting objections or concerns.
+
+**Recommended Review Period:** Trustees shall make every reasonable effort to allow a seventy-two (72) hour period for member review before executing non-urgent transactions.
+
+**Objection Protocol:** If objections are received before execution, the Trustees shall pause the transaction when possible and refer the matter to the full membership for vote or review as outlined in **Article VII, Section 7.2*
+
+**Recordkeeping:** All alerts and objections shall be archived and made available for audit and review.
 
 ---
 
