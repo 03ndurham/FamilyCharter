@@ -28,8 +28,8 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 3.4 - Financial Hardship Exemptions](#section-3-4-financial-harship-exemptions)
     - [Section 3.5 - Standings & Rights](#section-3-5-standing-and-rights)
 - [Article IV - Investment Strategy](#article-iv-investment-strategy)
-    - [Section 4.1 - Phase One: Seeding Years (Years 0-39)](#section-4-1-phase-one-seeding-years-years-0-39)
-    - [Section 4.2 - Phase Two: Diversified Years (Year 40+)](#section-4-2-phase-two-diversified-years-year-40)
+    - [Section 4.1 - Phase One: Seeding Years](#section-4-1-phase-one-seeding-years)
+    - [Section 4.2 - Phase Two: Distribution Years](#section-4-2-phase-two-distribution-years)
 - [Article V - Investment Governance](#article-v-investment-governance)
     - [Section 5.1 - Fund Substitution](#section-5-1-fund-substitution)
     - [Section 5.2 - Reallocation of Percentages](#section-5-2-reallocation-of-percentages)
@@ -199,7 +199,8 @@ Failure to contribute without an approved hardship exemption/deferral places a m
 
 ## **Article IV – Investment Strategy**
 
-### Section 4.1 – Phase One: Seeding Years (Years 0–39, or until the value of Trust Assets equals $500,000 - whichever comes first)
+### Section 4.1 – Phase One: Seeding Years
+Years 0–39, or until the value of Trust assets equals $500,000 - whichever comes first
 
 - Allocation:
     
@@ -211,7 +212,8 @@ Failure to contribute without an approved hardship exemption/deferral places a m
     
 **Risk Disclosure:** Target returns are **aspirational** and **not guaranteed**. All investments involve risk of loss, including loss of principal.
 
-### Section 4.2 – Phase Two: Diversified Years (Year 40+)
+### Section 4.2 – Phase Two: Distribution Years
+Year 40+
 
 - Allocation:
     
