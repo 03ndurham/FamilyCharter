@@ -18,6 +18,8 @@ st.markdown("""
 
 - **LL** is going to email family members.
 
+- **ND** is going to Contact Aunt Judy to see how she wants to get notified.
+
 - After discussing the implecations of the proposed 'alternative trustee' system, we voted to not implement it with no dissenters.
 
 - **ND** Proposed New Sections 7.5, Definitions, 8.5, 8.7, 6.3, 6.4, 11.7. All approved with no dissenters.
