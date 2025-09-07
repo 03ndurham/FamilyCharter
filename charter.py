@@ -816,10 +816,12 @@ Trustees and Stewards are empowered to adopt new tools, systems, or platforms fo
 ### Section 18.1 – General Amendment Procedure
 
 Any enrolled member may propose an amendment to this Charter. All proposed amendments must be submitted in writing and discussed in a public family forum (digital or in-person). Proposed Amendemnts must circulated **30 days** prior to the vote with the exact text and a summary of intent.
+
+Amemdments shall be voted on no more than once per quarter.
  
  An amendment is ratified if it receives:
  
- - A **simple majority vote (51%)** for changes to spelling, clarity, or internal procedure.
+ - A **simple majority vote** for changes to spelling, clarity, or internal procedure.
      
  - A **supermajority vote (75%)** for changes to governance structure, voting rights, Trustee or LLC rules, or distribution methods.
      
