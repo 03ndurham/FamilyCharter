@@ -153,11 +153,13 @@ The Trust shall prioritize long-term generational opportunity over personal enri
     
 - **Equal Standing Clause (Immutable):** All members, regardless of the amount they contribute beyond the required sum, shall remain equal in all rights, privileges, distributions, governance participation, and access to Trust resources. No excess contribution shall create or imply any preferential treatment, advantage, or authority for the contributor or for any of their descendants, now or in the future. This clause is an **immutable provision** under Article XVIII and cannot be altered without unanimous consent to dissolve this Charter.
 
+- Once a Contribution is made, the member who makes it forfeits any claim to that contribution. It is belongs exclusively to the Trust.
+
 ### Section 3.2 – Opt-Out Provision
 
 - Any eligible member may **opt out** of participation.
     
-- Opt-out members shall be ineligible to receive distributions or voting rights.
+- Opting Out forfeits any and all benefits, including, but not limited to receiving distributions, voting rights, access to LLC owned properties. Individuals who **Opt-Out** are not eligible for a refund of any paid contributions.
     
 
 ### Section 3.3 – Founding Members
