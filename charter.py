@@ -159,7 +159,7 @@ The Trust shall prioritize long-term generational opportunity over personal enri
 
 - Any eligible member may **opt out** of participation.
     
-- Opting Out forfeits any and all benefits, including, but not limited to receiving distributions, voting rights, access to LLC owned properties. Individuals who **Opt-Out** are not eligible for a refund of any paid contributions.
+- Opting Out forfeits any and all benefits, including, but not limited to receiving distributions, voting rights, access to LLC owned properties. Individuals who **Opt-Out** are not eligible for a refund of any previously made contributions.
     
 
 ### Section 3.3 – Founding Members
