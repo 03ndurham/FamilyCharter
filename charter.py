@@ -199,7 +199,7 @@ Failure to contribute without an approved hardship exemption/deferral places a m
 
 ## **Article IV – Investment Strategy**
 
-### Section 4.1 – Phase One: Seeding Years (Years 0–39)
+### Section 4.1 – Phase One: Seeding Years (Years 0–39, or until the value of Trust Assets equals $500,000 - whichever comes first)
 
 - Allocation:
     
