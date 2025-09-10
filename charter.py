@@ -116,7 +116,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
 
 The following individuals are designated as Founding Members of the Trust, ordered by birth:
 
-Lucy Livermore, Carole Preston, Skip Cruikshank, Harry Cruikshank, Judy McMullen, William Cruikshank, Benjamin Livermore, Nicholas Livermore, Heather Hernandez, Nathan Durham, Justina Cruikshank, Josh Wood, John Wood, Tricia Ruff, Michael Cruikshank, and Morgan Cruikshank.
+Lucy Livermore, Carole Preston, Skip Cruikshank, Harry Cruikshank, Judy McMullen, William Cruikshank, Benjamin Livermore, Nicholas Livermore, Heather Hernandez, Nathan Durham, Justina Cruikshank, Josh Wood, John Wood, Tricia Cruikshank, Michael Cruikshank, and Morgan Cruikshank.
 
 ---
 
