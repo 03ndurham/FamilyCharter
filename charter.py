@@ -298,7 +298,7 @@ Year 40+
     
 3. No principal assets shall be liquidated or sold for the purpose of funding distributions or tax payments, except upon approval by a supermajority vote of the Voting-Eligible Members, and only when absolutely necessary.
     
-4. Any sale of Trust holdings shall trigger an automatic Trust-wide alert, as per Section 8.11, detailing the nature, amount, and rationale for the transaction, along with the names of the Trustees initiating the sale.
+4. Any sale of Trust holdings shall trigger an automatic Trust-wide alert, as per Section 8.8, detailing the nature, amount, and rationale for the transaction, along with the names of the Trustees initiating the sale.
     
 5. Withdrawals from the investment account for purposes other than reinvestment or routine expenses shall be subject to prior member review and approval in accordance with Article VII.
 
