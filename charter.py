@@ -53,7 +53,7 @@ This Charter establishes the Edward and Sandra Cruikshank Family Legacy Trust ("
     - [Section 8.5 - Fiduciary Accountability](#section-8-5-fiduciary-accountability)
     - [Section 8.6 - Mandatory Annual Accounting](#section-8-6-mandatory-annual-accounting)
     - [Section 8.7 - Oversight and Enforcement](#section-8-7-oversight-and-enforcement)
-    - [Section 8.8 - Transaction Transparency and Executuion Protocol](#section-8-8-transaction-transparency-and-execution-protocol)
+    - [Section 8.8 - Transaction Transparency and Execution Protocol](#section-8-8-transaction-transparency-and-execution-protocol)
 - [Article IX - Eligibility & Membership](#article-ix-eligibility-and-membership)
     - [Section 9.1 - Automatic Eligibility](#section-9-1-automatic-eligibility)
     - [Section 9.2 - Spousal and Stepchild Guidelines](#section-9-2-spousal-and-stepchild-guidelines)
